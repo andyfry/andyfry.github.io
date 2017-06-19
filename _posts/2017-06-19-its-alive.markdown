@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "It's Alive!"
+date:   2017-06-19 00:44:25 -0500
+categories: blog
+---
+This blog is now live!

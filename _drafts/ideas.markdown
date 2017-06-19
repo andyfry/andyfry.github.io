@@ -6,8 +6,8 @@ categories: blog
 ---
 
 * ~~Introduction~~
-* Profile
-* About
+* About Andy
+* About This Blog
 * Developer Hegemony Review
 * Transparency
 * Angular
