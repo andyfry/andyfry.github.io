@@ -17,10 +17,20 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-clean-dark (0.1.0)
+      jekyll (~> 3.4)
     jekyll-feed (0.9.2)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-theme-midnight (0.0.4)
+      jekyll (~> 3.3)
+    jekyll-theme-minimal (0.0.4)
+      jekyll (~> 3.3)
+    jekyll-theme-primer (0.2.1)
+      jekyll (~> 3.3)
+    jekyll-theme-slate (0.0.4)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -46,7 +56,12 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.5.0)
+  jekyll-clean-dark
   jekyll-feed (~> 0.6)
+  jekyll-theme-midnight
+  jekyll-theme-minimal
+  jekyll-theme-primer
+  jekyll-theme-slate
   minima (~> 2.0)
   tzinfo-data
 
